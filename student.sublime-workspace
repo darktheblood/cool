@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"company"
+			],
+			[
+				"e",
+				"employeedata"
+			],
+			[
+				"CON",
+				"contact"
+			],
+			[
+				"in",
+				"initial\tbox-shadow"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ph",
+				"phonenumber"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"text",
+				"text-align-last\tproperty"
+			],
+			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"stri",
+				"stripslashes"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"login",
+				"loginmsg"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"S",
+				"StudentAddress"
+			],
+			[
+				"st",
+				"StudentStandard"
+			],
+			[
+				"St",
+				"StudentRoll"
+			],
+			[
+				"sc",
+				"SocialScience"
+			],
+			[
+				"sci",
+				"Science"
+			],
+			[
+				"mat",
+				"Mathematics"
+			],
+			[
+				"en",
+				"English"
+			],
+			[
+				"std",
+				"stdid"
+			],
+			[
+				"conn",
+				"connaction"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"roll",
+				"rollno"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"mars",
+				"marksheet"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ci",
+				"citiname"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ge",
+				"gender-choice"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"N",
+				"Newfile"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"lo",
+				"LOGIN"
+			],
+			[
+				"L",
+				"LOGIN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "subject.php",
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"j"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/reportcard"
+	],
+	"file_history":
+	[
+		"/C/Users/abhishek/Desktop/front/fr.css",
+		"/C/Users/abhishek/Desktop/front/front.html",
+		"/C/Users/abhishek/Desktop/com/com.html",
+		"/C/xampp/htdocs/office/contact/next4.html",
+		"/C/xampp/htdocs/office/contact/next5.css",
+		"/C/xampp/htdocs/office/contact/next1.php",
+		"/C/xampp/htdocs/student profile/student profile.html",
+		"/C/Users/abhishek/Desktop/logindesing/login.html",
+		"/C/xampp/htdocs/profitloss/pl.html",
+		"/C/xampp/htdocs/profitloss/pl1.php",
+		"/C/xampp/htdocs/reg/registration.html",
+		"/C/xampp/htdocs/studentinformation/std.php",
+		"/C/xampp/htdocs/studentinformation/std1.css",
+		"/C/xampp/htdocs/studentinformation/stdinfo.html",
+		"/C/xampp/htdocs/reg/st.css",
+		"/C/xampp/htdocs/student profile/page1.php",
+		"/C/xampp/htdocs/foot/f2.php",
+		"/C/xampp/htdocs/class/com.php",
+		"/G/work/htdocs/bootstrap/boot1.css",
+		"/C/Users/abhishek/Desktop/login/s2.css",
+		"/C/Users/abhishek/Desktop/login/login.html",
+		"/C/Users/abhishek/Desktop/logindesing/l.css",
+		"/C/Users/abhishek/Desktop/js/jsexp.html",
+		"/C/Users/abhishek/Desktop/js/jsexp1.css",
+		"/G/Login_v9/Login_v9/index.html",
+		"/G/Login_v9/Login_v9/css/main.css",
+		"/G/Login_v9/Login_v9/css/util.css",
+		"/C/xampp/htdocs/bootstrap/boot2.html",
+		"/C/xampp/htdocs/bootstrap/boot.html",
+		"/C/xampp/htdocs/foot/f1.html",
+		"/C/Users/abhishek/Desktop/boot5.html",
+		"/C/xampp/htdocs/superschool/admin/adminStyles.css",
+		"/C/xampp/htdocs/reportcard/subject.php",
+		"/C/xampp/htdocs/reportcard/stdsub.php",
+		"/C/xampp/htdocs/reportcard/db.php",
+		"/C/xampp/htdocs/reportcard/reportcard.php",
+		"/C/xampp/htdocs/reportcard/genratereportcard.php",
+		"/C/xampp/htdocs/rectangle.php",
+		"/C/xampp/htdocs/class/rectangle.html",
+		"/C/xampp/htdocs/class/next.php",
+		"/C/xampp/htdocs/rectangle2.php",
+		"/C/xampp/htdocs/class/inheritanceexample2.php",
+		"/C/xampp/htdocs/class/inheritanceexample.php",
+		"/C/xampp/htdocs/class/new.php",
+		"/C/xampp/htdocs/class/next1.php",
+		"/G/Login_v9/Login_v9/js/main.js",
+		"/G/Login_v9/Login_v9/js/map-custom.js",
+		"/C/xampp/htdocs/reportcard/genrate.php",
+		"/C/xampp/htdocs/reportcard/stdreg.php",
+		"/C/xampp/htdocs/reportcard/login.php",
+		"/G/Login_v9.zip",
+		"/C/xampp/htdocs/reg/Newfile.php",
+		"/C/xampp/htdocs/newstdinfo/stdinfo.html",
+		"/C/xampp/htdocs/newstdinfo/std1.css",
+		"/C/xampp/htdocs/pro/pro.html",
+		"/C/xampp/htdocs/array/newww.php",
+		"/C/xampp/htdocs/array/natype.php",
+		"/C/xampp/htdocs/page/page.html",
+		"/C/xampp/htdocs/array/marray.php",
+		"/C/xampp/htdocs/array/next.php",
+		"/C/xampp/htdocs/array/newarray.php",
+		"/C/xampp/htdocs/array/array.php",
+		"/C/xampp/htdocs/for/dowhile.php",
+		"/C/xampp/htdocs/for/while1.php",
+		"/C/xampp/htdocs/for/while.php",
+		"/C/xampp/htdocs/pro/pro1.php",
+		"/C/xampp/htdocs/bootstrap/boot3.html",
+		"/C/xampp/htdocs/check/c.php",
+		"/C/xampp/htdocs/check/check.html",
+		"/C/xampp/htdocs/function/fun.php",
+		"/C/xampp/htdocs/for/for.php",
+		"/C/xampp/htdocs/si1/si1.php",
+		"/C/xampp/htdocs/si1/si.html",
+		"/C/xampp/htdocs/for/for1.php",
+		"/C/xampp/htdocs/for/dowhile1.php",
+		"/C/xampp/htdocs/si",
+		"/C/xampp/htdocs/addition/addition.php",
+		"/C/xampp/htdocs/newstdinfo/std2.php",
+		"/C/xampp/htdocs/addition/inputpage.html",
+		"/C/xampp/htdocs/addition/weekday.php",
+		"/C/xampp/htdocs/Greatest/g1.html",
+		"/C/xampp/htdocs/Greatest/g2.php",
+		"/C/xampp/htdocs/page/page2.php",
+		"/C/xampp/htdocs/exp1/exp.html",
+		"/C/xampp/htdocs/exp1/exp1.php",
+		"/C/xampp/htdocs/bootstrap/boot1.css",
+		"/C/xampp/htdocs/phpexample/xyz.html",
+		"/C/xampp/htdocs/phpexample/page2.php",
+		"/C/Users/abhishek/Desktop/reg/registration.html",
+		"/C/Users/abhishek/Desktop/reg/st.css",
+		"/C/Users/abhishek/Desktop/conn/tour.html",
+		"/C/xampp/htdocs/new lock/new lock.php",
+		"/C/xampp/htdocs/Newfile.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "subject.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "student.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
